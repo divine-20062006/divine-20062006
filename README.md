@@ -8,19 +8,25 @@
 ### 🛠️ Mes Compétences Techniques (Tech Stack) :
 
 #### 🌐 Réseaux & Systèmes
-![Cisco](https://img.shields.io)
-![Windows Server](https://img.shields.io)
-![Linux](https://img.shields.io)
+<p>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
 #### 🛡️ Cybersécurité
-![Kali Linux](https://img.shields.io)
-![Wireshark](https://img.shields.io)
+<p>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
 #### 💻 Développement & Web
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![React](https://img.shields.io)
+<p>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
 ---
 
