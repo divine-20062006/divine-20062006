@@ -36,11 +36,12 @@
 ---
 
 ### 📫 Me contacter :
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/danick-arcel-loutaladio-3589ba394/)
+[![LinkedIn](https://img.shields.io)]((https://www.linkedin.com/in/divine-oubourra-2006j/))
 [![Portfolio](https://img.shields.io)](https://oubourragrealafeedivine.netlify.app/)
 [![Pinterest](https://img.shields.io)]([https://oubourragrealafeedivine.netlify.app/](https://fr.pinterest.com/oubourradivine))
 [![Instagram](https://img.shields.io)]([https://oubourragrealafeedivine.netlify.app/](https://www.instagram.com/oubourradivine/))
 [![About.me](https://img.shields.io)]([https://oubourragrealafeedivine.netlify.app/](https://about.me/divineoubourra))
 [![Fecebook](https://img.shields.io)]([https://oubourragrealafeedivine.netlify.app/](https://www.facebook.com/profile.php?id=61579480785445))
-[![Portfolio](https://img.shields.io)]([https://oubourragrealafeedivine.netlify.app/](https://about.me/danickarcelloutaladio))
+[![YouTube](https://img.shields.io)]([[https://oubourragrealafeedivine.netlify.app/](https://www.youtube.com/channel/UC_WMQC_oQPewyEu1sUM63PQ))
+[![Taplink](https://img.shields.io)]([[https://oubourragrealafeedivine.netlify.app/](https://oubourradivine.taplink.bio))
 
